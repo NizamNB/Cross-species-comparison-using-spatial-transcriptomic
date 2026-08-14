@@ -1,1 +1,2 @@
 # Cross-species-comparison-using-spatial-transcriptomic
+Cross-species comparison of brain transcriptomic and spatial organization, focusing on conserved and species-specific molecular patterns across cortical regions and cell types. This project integrates single-cell and spatial transcriptomics data to investigate regional and cell-type-level similarities and differences across humans and mice. The analysis are done across the cortical regions.
